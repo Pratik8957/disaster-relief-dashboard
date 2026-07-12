@@ -21,6 +21,18 @@ This project was developed using React and focuses on creating a clean, user-fri
 
 ---
 
+## 🌐 Live Demo
+
+👉 **Live Website:**  
+https://disaster-relief-dashboard-delta.vercel.app/
+
+---
+
+## 📂 Repository
+
+👉 **GitHub Repository:**  
+https://github.com/Pratik8957/disaster-relief-dashboard
+
 ## Built With
 
 - React.js
