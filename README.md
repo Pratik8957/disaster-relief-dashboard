@@ -23,6 +23,30 @@ This project was developed using React and focuses on creating a clean, user-fri
 
 ## 🌐 Live Demo
 
+## 📸 Screenshots
+
+### 🏠 Dashboard
+
+![Dashboard](src/assets/screenshots/dashboard.png)
+
+---
+
+### 🗺️ Disaster Map
+
+![Disaster Map](src/assets/screenshots/map.png)
+
+---
+
+### 🚨 Emergency Alerts
+
+![Emergency Alerts](src/assets/screenshots/alerts.png)
+
+---
+
+### 🌦️ Weather
+
+![Weather](src/assets/screenshots/weather.png)
+
 👉 **Live Website:**  
 https://disaster-relief-dashboard-delta.vercel.app/
 
